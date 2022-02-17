@@ -21,4 +21,4 @@ const weatherStation = (humidity) => {
 }
 
 broadCast(weatherStation, 100)
-//broadCast(weatherStation, 80)
+broadCast(weatherStation, 80)
